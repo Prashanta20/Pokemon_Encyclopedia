@@ -1,6 +1,6 @@
 Please scroll through and search for different Pokemon to learn a little bit about them. This project will improve my React and Tailwind skills, using the [pokem](https://pokeapi.co/) API.
 
-Fanmade project. All rights to Nintendo, Game Freak, and Creatures Inc.
+#Fanmade project. All rights to Nintendo, Game Freak, and Creatures Inc.
 
 https://www.pokemon.com/us 
 
